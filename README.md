@@ -24,9 +24,7 @@ A structured two-player Tic-Tac-Toe game built using Python and Object-Oriented 
 ---
 
 ##📸 Example Output
-mathematica
-Copy
-Edit
+
  X | O | X
 ---+---+---
  O | X |  
