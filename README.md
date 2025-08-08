@@ -24,13 +24,13 @@ A structured two-player Tic-Tac-Toe game built using Python and Object-Oriented 
 ---
 
 ## Example Output
+X | O | X
+---+---+---
+O | X |
+---+---+---
+X | | O
 
- X | O | X
----+---+---
- O | X |  
----+---+---
- X |   | O
- 
+🎉 Congratulations Yousef! You won the game with symbol 'X'!
 ---
 
 ## ▶️ How to Run
